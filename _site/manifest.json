@@ -76,7 +76,7 @@
       "output": {
         ".html": {
           "relative_path": "api/V8.UI.Configuration.Padding.html",
-          "hash": "SBwIs7BWWrLt1EJhagPkYmzbqJZaua4z/T/xSwVS+mc="
+          "hash": "ozRSL99LQ0BjlmvD/LW+rrQh7fJ9Kwq9Gx1UCi8yrbg="
         }
       },
       "is_incremental": false,
@@ -184,7 +184,7 @@
       "output": {
         ".html": {
           "relative_path": "api/V8.UI.Runtime.Configuration.AnchorSettings.html",
-          "hash": "oOvc5lvgsflQwHgLFzp37yjUQjfrdnPfsXxvbYzonpA="
+          "hash": "vPh7NeUFRyPZMx2eBsxfPAdi1eEMd40ipNJjJAzEvyM="
         }
       },
       "is_incremental": false,
@@ -208,7 +208,7 @@
       "output": {
         ".html": {
           "relative_path": "api/V8.UI.Runtime.Configuration.Config.html",
-          "hash": "y8Oaa2piztRfBNp1xP7Zanx/0TVAzC07Lya5Oj8gWYA="
+          "hash": "qfsjKqZC6FtjxDPBX3ZQmb7ABxJvDTk4L2lX5I1/vd0="
         }
       },
       "is_incremental": false,
@@ -220,7 +220,7 @@
       "output": {
         ".html": {
           "relative_path": "api/V8.UI.Runtime.Configuration.ElementDescriptor.html",
-          "hash": "K6vDAyt0GYZo7q+enzv3fW/J97jeMMCvVZvIXucqsx0="
+          "hash": "Qt8PEP9ige527dnhw6ts7ol0CWZvGRuAl3qrxNIOapE="
         }
       },
       "is_incremental": false,
@@ -256,7 +256,7 @@
       "output": {
         ".html": {
           "relative_path": "api/V8.UI.Runtime.Configuration.JsonFileUtility.html",
-          "hash": "+4oB1M1Bl+VjsSFman8y7aJQLX1U8yNHFrEfFDm08cI="
+          "hash": "WpcZrF48SRLKP9/rmL5raFpk+Ca9TKPmvSyl+kF2suk="
         }
       },
       "is_incremental": false,
@@ -280,7 +280,7 @@
       "output": {
         ".html": {
           "relative_path": "api/V8.UI.Runtime.Configuration.UnityEnumMapper.html",
-          "hash": "v9chA5z5FaRgH1CXBoN/AsA+NOz2xGPtvif1/+TsvfY="
+          "hash": "G2UOIkCTIUMROMqjx+EOIgvYNvMDCLni6XRrEcSzPv4="
         }
       },
       "is_incremental": false,
@@ -304,7 +304,7 @@
       "output": {
         ".html": {
           "relative_path": "api/V8.UI.Runtime.Factory.Extensions.RectTransformExtensions.html",
-          "hash": "VUfpHDcxSkTqeEXNaJrBbobRuwXa6fHh8BCb1BSd49A="
+          "hash": "CyJDmW3X+Mdqvs25Ss93FloKtGpHGnAlIn3mxwYO0TI="
         }
       },
       "is_incremental": false,
@@ -400,7 +400,7 @@
       "output": {
         ".html": {
           "relative_path": "api/V8.UI.Runtime.UIInitializer.html",
-          "hash": "B+XUp0t/+Z5ibhQTwSgtWQ6YYO0Ba+GUW++ekeQI78w="
+          "hash": "Q3kJZbxj2AawChBEzni5vFOK1/vPGh2t7iYZNiUTpoU="
         }
       },
       "is_incremental": false,
@@ -412,7 +412,7 @@
       "output": {
         ".html": {
           "relative_path": "api/V8.UI.Runtime.UIManager.html",
-          "hash": "4VmBmMGvxMiM9g4Yqs0NRmCRg2ovju/s3EcnN5haRfE="
+          "hash": "UTZg1uuIYrX7os0ARhn2uugWA++m94/qkKygJIN7YuY="
         }
       },
       "is_incremental": false,
@@ -424,7 +424,7 @@
       "output": {
         ".html": {
           "relative_path": "api/V8.UI.Runtime.html",
-          "hash": "vjzu/5uXRUdzSZTb1R4rO6AngdY0pUlZVf1481Fhlwc="
+          "hash": "8B47ckg19lYuG4NJUmfA2BpEAiTgt1vd6ETHKYcnGac="
         }
       },
       "is_incremental": false,
@@ -448,7 +448,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "IJJnZsblbJjDx0ZOfz9vZF+NJEmF/aZdB7qO3w0tItM="
+          "hash": "O1aoCox0HDzv9gJKx2U+/HIA7XfMjWlxw4uZwX8SrWg="
         }
       },
       "is_incremental": false,
@@ -460,7 +460,7 @@
       "output": {
         ".html": {
           "relative_path": "manual/about.html",
-          "hash": "WWXm/xHFzQ90O+8SiZq6moNZUBXunVXxZR+gQHGjheA="
+          "hash": "SLc1Mg3+tz/iswtIARtXPnzIfwpAgprqtfei3MTxWcg="
         }
       },
       "is_incremental": false,
@@ -556,7 +556,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 36,
+          "total_file_count": 34,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
