@@ -28,7 +28,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DocFxForUnity.Player.html",
-          "hash": "b3utg2eF2yETzwrkigZ4OSb0gGaNUa+IB4huAL6X/FY="
+          "hash": "dvGvRi0EaqnBrBLHibllg/X7SaBcVvvaQ7K4FSmXYss="
         }
       },
       "is_incremental": false,
@@ -40,7 +40,7 @@
       "output": {
         ".html": {
           "relative_path": "api/DocFxForUnity.html",
-          "hash": "IBo/E4f4DBcDtbKj7w1t6VX3WFbkj8dw+8u9o4zMl0M="
+          "hash": "olpUz9yLpRd6V5jxDWKEzULBfYGnkpNgC8Q1UGQExhk="
         }
       },
       "is_incremental": false,
@@ -64,7 +64,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "9SFKrw15/z9YLRO9XO78k168nJJy+C1/TISv9MMXX+Q="
+          "hash": "3Y4SxmzNuNoP+NoXJomvzd/1MPA/aWezIHPNC/Foyds="
         }
       },
       "is_incremental": false,
@@ -76,7 +76,7 @@
       "output": {
         ".html": {
           "relative_path": "manual/coniunctis.html",
-          "hash": "0Y+B1v9wCxL0hpZdSI3iumuqdw6Id2Uap5zekbAdDc8="
+          "hash": "E6RFoimY7MgOSDnMdOJn0zU1fYj8hYb+i07UW6z2prI="
         }
       },
       "is_incremental": false,
@@ -88,7 +88,7 @@
       "output": {
         ".html": {
           "relative_path": "manual/etiam.html",
-          "hash": "/uDF4+bLjojOmr3pmIlv780s+wtBld7gCljmexh6FDA="
+          "hash": "MT9jlZC8GUdupsygwBEqp6sLp3/GcI3yLnmROTAPrXo="
         }
       },
       "is_incremental": false,
@@ -123,6 +123,17 @@
       "output": {
         "resource": {
           "relative_path": "resources/ExampleScriptingApi.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/logo.png"
         }
       },
       "is_incremental": false,
