@@ -39,7 +39,31 @@
       "output": {
         ".html": {
           "relative_path": "manual/coniunctis.html",
-          "hash": "zLJ+WDl+vUSU54NS2KPnm87T88mItqPrVGRGne/wMyo="
+          "hash": "2zH1GsxeR509/1EI/nspJjK20SFNbPTacPrasNX8OMk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/etiam.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/etiam.html",
+          "hash": "i/jNOxmh/wcRsQ0WxJsVEu9cp115soGWWvVhvzGyw78="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "rP+c9KPLMLO+q5u7rC7ci/iMYXqbmZC8g5PeGCEXGU4="
         }
       },
       "is_incremental": false,
@@ -84,7 +108,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "Da6sDFOFElUBSgwBa/CYR8tjbQ5Gqr1SgXTuF91C/0E="
+          "hash": "g0KsbH+o6pUO8xMUdt1C1uTTcD6e7SeS8Eb3O6fOvEg="
         }
       },
       "is_incremental": false,
@@ -105,7 +129,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 2,
+          "total_file_count": 3,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
