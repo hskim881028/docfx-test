@@ -1,187 +1,187 @@
 {
   "api/V8.UI.Configuration.AlignmentMode.html": {
     "href": "api/V8.UI.Configuration.AlignmentMode.html",
-    "title": "Enum AlignmentMode | Verse 8 UI documentation",
+    "title": "Enum AlignmentMode | com.planetarium.v8.ui documentation",
     "keywords": "Enum AlignmentMode Namespace : V8.UI.Configuration Assembly : cs.temp.dll.dll Syntax public enum AlignmentMode Fields Name Description BottomCenter BottomLeft BottomRight MiddleCenter MiddleLeft MiddleRight TopCenter TopLeft TopRight"
   },
   "api/V8.UI.Configuration.AxisMode.html": {
     "href": "api/V8.UI.Configuration.AxisMode.html",
-    "title": "Enum AxisMode | Verse 8 UI documentation",
+    "title": "Enum AxisMode | com.planetarium.v8.ui documentation",
     "keywords": "Enum AxisMode Namespace : V8.UI.Configuration Assembly : cs.temp.dll.dll Syntax public enum AxisMode Fields Name Description Horizontal Vertical"
   },
   "api/V8.UI.Configuration.ConstraintMode.html": {
     "href": "api/V8.UI.Configuration.ConstraintMode.html",
-    "title": "Enum ConstraintMode | Verse 8 UI documentation",
+    "title": "Enum ConstraintMode | com.planetarium.v8.ui documentation",
     "keywords": "Enum ConstraintMode Namespace : V8.UI.Configuration Assembly : cs.temp.dll.dll Syntax public enum ConstraintMode Fields Name Description FixedColumnCount FixedRowCount Flexible"
   },
   "api/V8.UI.Configuration.CornerMode.html": {
     "href": "api/V8.UI.Configuration.CornerMode.html",
-    "title": "Enum CornerMode | Verse 8 UI documentation",
+    "title": "Enum CornerMode | com.planetarium.v8.ui documentation",
     "keywords": "Enum CornerMode Namespace : V8.UI.Configuration Assembly : cs.temp.dll.dll Syntax public enum CornerMode Fields Name Description LowerLeft LowerRight UpperLeft UpperRight"
   },
   "api/V8.UI.Configuration.html": {
     "href": "api/V8.UI.Configuration.html",
-    "title": "Namespace V8.UI.Configuration | Verse 8 UI documentation",
+    "title": "Namespace V8.UI.Configuration | com.planetarium.v8.ui documentation",
     "keywords": "Namespace V8.UI.Configuration Structs Padding Enums AlignmentMode AxisMode ConstraintMode CornerMode PositionMode SizeMode"
   },
   "api/V8.UI.Configuration.Padding.html": {
     "href": "api/V8.UI.Configuration.Padding.html",
-    "title": "Struct Padding | Verse 8 UI documentation",
-    "keywords": "Struct Padding Inherited Members ValueType.Equals(Object) ValueType.GetHashCode() ValueType.ToString() Object.Equals(Object, Object) Object.ReferenceEquals(Object, Object) Object.GetType() Namespace : V8.UI.Configuration Assembly : cs.temp.dll.dll Syntax public struct Padding Constructors Padding(Int32, Int32, Int32, Int32) Declaration public Padding(int left, int right, int top, int bottom) Parameters Type Name Description Int32 left Int32 right Int32 top Int32 bottom Properties Bottom Declaration public readonly int Bottom { get; } Property Value Type Description Int32 Left Declaration public readonly int Left { get; } Property Value Type Description Int32 Right Declaration public readonly int Right { get; } Property Value Type Description Int32 Top Declaration public readonly int Top { get; } Property Value Type Description Int32"
+    "title": "Struct Padding | com.planetarium.v8.ui documentation",
+    "keywords": "Struct Padding Namespace : V8.UI.Configuration Assembly : cs.temp.dll.dll Syntax public struct Padding Constructors Padding(Int32, Int32, Int32, Int32) Declaration public Padding(int left, int right, int top, int bottom) Parameters Type Name Description Int32 left Int32 right Int32 top Int32 bottom Properties Bottom Declaration public readonly int Bottom { get; } Property Value Type Description Int32 Left Declaration public readonly int Left { get; } Property Value Type Description Int32 Right Declaration public readonly int Right { get; } Property Value Type Description Int32 Top Declaration public readonly int Top { get; } Property Value Type Description Int32"
   },
   "api/V8.UI.Configuration.PositionMode.html": {
     "href": "api/V8.UI.Configuration.PositionMode.html",
-    "title": "Enum PositionMode | Verse 8 UI documentation",
+    "title": "Enum PositionMode | com.planetarium.v8.ui documentation",
     "keywords": "Enum PositionMode Namespace : V8.UI.Configuration Assembly : cs.temp.dll.dll Syntax public enum PositionMode Fields Name Description Absolute Relative"
   },
   "api/V8.UI.Configuration.SizeMode.html": {
     "href": "api/V8.UI.Configuration.SizeMode.html",
-    "title": "Enum SizeMode | Verse 8 UI documentation",
+    "title": "Enum SizeMode | com.planetarium.v8.ui documentation",
     "keywords": "Enum SizeMode Namespace : V8.UI.Configuration Assembly : cs.temp.dll.dll Syntax public enum SizeMode Fields Name Description Percent Pixel"
   },
   "api/V8.UI.Elements.Basic.Element.html": {
     "href": "api/V8.UI.Elements.Basic.Element.html",
-    "title": "Class Element | Verse 8 UI documentation",
+    "title": "Class Element | com.planetarium.v8.ui documentation",
     "keywords": "Class Element Inheritance Object Element Image Label Layout Implements IDisposable Namespace : V8.UI.Elements.Basic Assembly : cs.temp.dll.dll Syntax public class Element : INotifyPropertyChanged Constructors Element(String, String, List<Element>) Declaration protected Element(string id, string type, List<Element> children = null) Parameters Type Name Description String id String type List < Element > children Properties AnchorAlignmentMode Declaration public AlignmentMode AnchorAlignmentMode { get; set; } Property Value Type Description AlignmentMode Children Declaration public List<Element> Children { get; } Property Value Type Description List < Element > Id Declaration public string Id { get; } Property Value Type Description String Position Declaration public Vector2 Position { get; set; } Property Value Type Description Vector2 PositionMode Declaration public PositionMode PositionMode { get; set; } Property Value Type Description PositionMode Size Declaration public Vector2 Size { get; set; } Property Value Type Description Vector2 SizeMode Declaration public SizeMode SizeMode { get; set; } Property Value Type Description SizeMode Type Declaration public string Type { get; } Property Value Type Description String Methods Dispose() Declaration public void Dispose() GetElementInChildren<T>() Declaration public T GetElementInChildren<T>() where T : Element Returns Type Description T Type Parameters Name Description T GetElementsInChildren<T>() Declaration public List<T> GetElementsInChildren<T>() where T : Element Returns Type Description List <T> Type Parameters Name Description T SetProperty<T>(ref T, T, String) Declaration protected void SetProperty<T>(ref T field, T value, string propertyName) Parameters Type Name Description T field T value String propertyName Type Parameters Name Description T Events PropertyChanged Declaration public event PropertyChangedEventHandler PropertyChanged Event Type Type Description PropertyChangedEventHandler Implements IDisposable"
   },
   "api/V8.UI.Elements.Basic.html": {
     "href": "api/V8.UI.Elements.Basic.html",
-    "title": "Namespace V8.UI.Elements.Basic | Verse 8 UI documentation",
+    "title": "Namespace V8.UI.Elements.Basic | com.planetarium.v8.ui documentation",
     "keywords": "Namespace V8.UI.Elements.Basic Classes Element Image Label Layout"
   },
   "api/V8.UI.Elements.Basic.Image.html": {
     "href": "api/V8.UI.Elements.Basic.Image.html",
-    "title": "Class Image | Verse 8 UI documentation",
+    "title": "Class Image | com.planetarium.v8.ui documentation",
     "keywords": "Class Image Inheritance Object Element Image Implements IDisposable Inherited Members Element.Children Element.PropertyChanged Element.Id Element.Type Element.AnchorAlignmentMode Element.SizeMode Element.Size Element.PositionMode Element.Position Element.GetElementInChildren<T>() Element.GetElementsInChildren<T>() Element.Dispose() Element.SetProperty<T>(T, T, String) Namespace : V8.UI.Elements.Basic Assembly : cs.temp.dll.dll Syntax public class Image : Element Constructors Image(String, String) Declaration protected Image(string id, string type) Parameters Type Name Description String id String type Properties Texture Declaration public string Texture { get; set; } Property Value Type Description String Implements IDisposable"
   },
   "api/V8.UI.Elements.Basic.Label.html": {
     "href": "api/V8.UI.Elements.Basic.Label.html",
-    "title": "Class Label | Verse 8 UI documentation",
+    "title": "Class Label | com.planetarium.v8.ui documentation",
     "keywords": "Class Label Inheritance Object Element Label Implements IDisposable Inherited Members Element.Children Element.PropertyChanged Element.Id Element.Type Element.AnchorAlignmentMode Element.SizeMode Element.Size Element.PositionMode Element.Position Element.GetElementInChildren<T>() Element.GetElementsInChildren<T>() Element.Dispose() Element.SetProperty<T>(T, T, String) Namespace : V8.UI.Elements.Basic Assembly : cs.temp.dll.dll Syntax public class Label : Element Constructors Label(String, String) Declaration protected Label(string id, string type) Parameters Type Name Description String id String type Properties Color Declaration public Color Color { get; set; } Property Value Type Description Color Font Declaration public string Font { get; set; } Property Value Type Description String FontSize Declaration public int FontSize { get; set; } Property Value Type Description Int32 Text Declaration public string Text { get; set; } Property Value Type Description String TextAlignmentMode Declaration public AlignmentMode TextAlignmentMode { get; set; } Property Value Type Description AlignmentMode Implements IDisposable"
   },
   "api/V8.UI.Elements.Basic.Layout.html": {
     "href": "api/V8.UI.Elements.Basic.Layout.html",
-    "title": "Class Layout | Verse 8 UI documentation",
+    "title": "Class Layout | com.planetarium.v8.ui documentation",
     "keywords": "Class Layout Inheritance Object Element Layout Implements IDisposable Inherited Members Element.Children Element.PropertyChanged Element.Id Element.Type Element.AnchorAlignmentMode Element.SizeMode Element.Size Element.PositionMode Element.Position Element.GetElementInChildren<T>() Element.GetElementsInChildren<T>() Element.Dispose() Element.SetProperty<T>(T, T, String) Namespace : V8.UI.Elements.Basic Assembly : cs.temp.dll.dll Syntax public class Layout : Element Constructors Layout(String, String) Declaration protected Layout(string id, string type) Parameters Type Name Description String id String type Properties AxisMode Declaration public AxisMode AxisMode { get; set; } Property Value Type Description AxisMode ChildAlignmentMode Declaration public AlignmentMode ChildAlignmentMode { get; set; } Property Value Type Description AlignmentMode ChildConstraintCount Declaration public int ChildConstraintCount { get; set; } Property Value Type Description Int32 ChildConstraintMode Declaration public ConstraintMode ChildConstraintMode { get; set; } Property Value Type Description ConstraintMode ChildSize Declaration public Vector2 ChildSize { get; set; } Property Value Type Description Vector2 CornerMode Declaration public CornerMode CornerMode { get; set; } Property Value Type Description CornerMode Padding Declaration public Padding Padding { get; set; } Property Value Type Description Padding Spacing Declaration public Vector2 Spacing { get; set; } Property Value Type Description Vector2 Implements IDisposable"
   },
   "api/V8.UI.Runtime.Configuration.AnchorSettings.html": {
     "href": "api/V8.UI.Runtime.Configuration.AnchorSettings.html",
-    "title": "Struct AnchorSettings | Verse 8 UI documentation",
-    "keywords": "Struct AnchorSettings Inherited Members ValueType.Equals(Object) ValueType.GetHashCode() ValueType.ToString() Object.Equals(Object, Object) Object.ReferenceEquals(Object, Object) Object.GetType() Namespace : V8.UI.Runtime.Configuration Assembly : cs.temp.dll.dll Syntax public readonly struct AnchorSettings Constructors AnchorSettings(Vector2, Vector2, Vector2) Declaration public AnchorSettings(Vector2 min, Vector2 max, Vector2 pivot) Parameters Type Name Description Vector2 min Vector2 max Vector2 pivot Fields Max Declaration public readonly Vector2 Max Field Value Type Description Vector2 Min Declaration public readonly Vector2 Min Field Value Type Description Vector2 Pivot Declaration public readonly Vector2 Pivot Field Value Type Description Vector2"
+    "title": "Struct AnchorSettings | com.planetarium.v8.ui documentation",
+    "keywords": "Struct AnchorSettings Namespace : V8.UI.Runtime.Configuration Assembly : cs.temp.dll.dll Syntax public readonly struct AnchorSettings Constructors AnchorSettings(Vector2, Vector2, Vector2) Declaration public AnchorSettings(Vector2 min, Vector2 max, Vector2 pivot) Parameters Type Name Description Vector2 min Vector2 max Vector2 pivot Fields Max Declaration public readonly Vector2 Max Field Value Type Description Vector2 Min Declaration public readonly Vector2 Min Field Value Type Description Vector2 Pivot Declaration public readonly Vector2 Pivot Field Value Type Description Vector2"
   },
   "api/V8.UI.Runtime.Configuration.AssetList-1.html": {
     "href": "api/V8.UI.Runtime.Configuration.AssetList-1.html",
-    "title": "Class AssetList<T> | Verse 8 UI documentation",
+    "title": "Class AssetList<T> | com.planetarium.v8.ui documentation",
     "keywords": "Class AssetList<T> Manages a collection of assets of type T, allowing retrieval by name. Inheritance Object AssetList<T> FontList TextureList Implements IAssetList <T> Namespace : V8.UI.Runtime.Configuration Assembly : cs.temp.dll.dll Syntax public abstract class AssetList<T> : ScriptableObject, IAssetList<T> where T : Object Type Parameters Name Description T The type of asset, which must be derived from Unity's Object class Fields _assets Declaration protected List<T> _assets Field Value Type Description List <T> Methods TryGetAsset(String, out T) Declaration public bool TryGetAsset(string assetName, out T asset) Parameters Type Name Description String assetName T asset Returns Type Description Boolean Implements IAssetList<T>"
   },
   "api/V8.UI.Runtime.Configuration.Config.html": {
     "href": "api/V8.UI.Runtime.Configuration.Config.html",
-    "title": "Class Config | Verse 8 UI documentation",
-    "keywords": "Class Config Inheritance Object Config Inherited Members Object.ToString() Object.Equals(Object) Object.Equals(Object, Object) Object.ReferenceEquals(Object, Object) Object.GetHashCode() Object.GetType() Object.MemberwiseClone() Namespace : V8.UI.Runtime.Configuration Assembly : cs.temp.dll.dll Syntax public class Config Properties JsonDirectoryPath Declaration public static string JsonDirectoryPath { get; } Property Value Type Description String"
+    "title": "Class Config | com.planetarium.v8.ui documentation",
+    "keywords": "Class Config Inheritance Object Config Namespace : V8.UI.Runtime.Configuration Assembly : cs.temp.dll.dll Syntax public class Config Properties JsonDirectoryPath Declaration public static string JsonDirectoryPath { get; } Property Value Type Description String"
   },
   "api/V8.UI.Runtime.Configuration.ElementDescriptor.html": {
     "href": "api/V8.UI.Runtime.Configuration.ElementDescriptor.html",
-    "title": "Struct ElementDescriptor | Verse 8 UI documentation",
-    "keywords": "Struct ElementDescriptor Defines the type of a UI element for meta data interpretation and instantiation. Inherited Members ValueType.Equals(Object) ValueType.GetHashCode() ValueType.ToString() Object.Equals(Object, Object) Object.ReferenceEquals(Object, Object) Object.GetType() Namespace : V8.UI.Runtime.Configuration Assembly : cs.temp.dll.dll Syntax public readonly struct ElementDescriptor Constructors ElementDescriptor(String, List<JToken>) Declaration public ElementDescriptor(string type, List<JToken> children = null) Parameters Type Name Description String type List < JToken > children Properties Children Declaration public readonly List<JToken> Children { get; } Property Value Type Description List < JToken > Type Declaration public readonly string Type { get; } Property Value Type Description String"
+    "title": "Struct ElementDescriptor | com.planetarium.v8.ui documentation",
+    "keywords": "Struct ElementDescriptor Defines the type of a UI element for meta data interpretation and instantiation. Namespace : V8.UI.Runtime.Configuration Assembly : cs.temp.dll.dll Syntax public readonly struct ElementDescriptor Constructors ElementDescriptor(String, List<JToken>) Declaration public ElementDescriptor(string type, List<JToken> children = null) Parameters Type Name Description String type List < JToken > children Properties Children Declaration public readonly List<JToken> Children { get; } Property Value Type Description List < JToken > Type Declaration public readonly string Type { get; } Property Value Type Description String"
   },
   "api/V8.UI.Runtime.Configuration.FontList.html": {
     "href": "api/V8.UI.Runtime.Configuration.FontList.html",
-    "title": "Class FontList | Verse 8 UI documentation",
+    "title": "Class FontList | com.planetarium.v8.ui documentation",
     "keywords": "Class FontList Inheritance Object AssetList < TMP_FontAsset > FontList Implements IAssetList < TMP_FontAsset > Inherited Members AssetList<TMP_FontAsset>._assets AssetList<TMP_FontAsset>.TryGetAsset(String, TMP_FontAsset) Namespace : V8.UI.Runtime.Configuration Assembly : cs.temp.dll.dll Syntax public class FontList : AssetList<TMP_FontAsset>, IAssetList<TMP_FontAsset> Implements IAssetList<T>"
   },
   "api/V8.UI.Runtime.Configuration.html": {
     "href": "api/V8.UI.Runtime.Configuration.html",
-    "title": "Namespace V8.UI.Runtime.Configuration | Verse 8 UI documentation",
+    "title": "Namespace V8.UI.Runtime.Configuration | com.planetarium.v8.ui documentation",
     "keywords": "Namespace V8.UI.Runtime.Configuration Classes AssetList<T> Manages a collection of assets of type T, allowing retrieval by name. Config FontList JsonFileUtility TextureList Structs AnchorSettings ElementDescriptor Defines the type of a UI element for meta data interpretation and instantiation. UnityEnumMapper Interfaces IAssetList<T>"
   },
   "api/V8.UI.Runtime.Configuration.IAssetList-1.html": {
     "href": "api/V8.UI.Runtime.Configuration.IAssetList-1.html",
-    "title": "Interface IAssetList<T> | Verse 8 UI documentation",
+    "title": "Interface IAssetList<T> | com.planetarium.v8.ui documentation",
     "keywords": "Interface IAssetList<T> Namespace : V8.UI.Runtime.Configuration Assembly : cs.temp.dll.dll Syntax public interface IAssetList<T> where T : Object Type Parameters Name Description T Methods TryGetAsset(String, out T) Declaration bool TryGetAsset(string assetName, out T asset) Parameters Type Name Description String assetName T asset Returns Type Description Boolean"
   },
   "api/V8.UI.Runtime.Configuration.JsonFileUtility.html": {
     "href": "api/V8.UI.Runtime.Configuration.JsonFileUtility.html",
-    "title": "Class JsonFileUtility | Verse 8 UI documentation",
-    "keywords": "Class JsonFileUtility Inheritance Object JsonFileUtility Inherited Members Object.ToString() Object.Equals(Object) Object.Equals(Object, Object) Object.ReferenceEquals(Object, Object) Object.GetHashCode() Object.GetType() Object.MemberwiseClone() Namespace : V8.UI.Runtime.Configuration Assembly : cs.temp.dll.dll Syntax public static class JsonFileUtility Methods ConvertJsonFilesToJObject(IEnumerable<FileInfo>) Declaration public static Dictionary<string, JToken> ConvertJsonFilesToJObject(IEnumerable<FileInfo> jsonFiles) Parameters Type Name Description IEnumerable < FileInfo > jsonFiles Returns Type Description Dictionary < String , JToken > GetJsonFiles(String) Declaration public static IEnumerable<FileInfo> GetJsonFiles(string path) Parameters Type Name Description String path Returns Type Description IEnumerable < FileInfo >"
+    "title": "Class JsonFileUtility | com.planetarium.v8.ui documentation",
+    "keywords": "Class JsonFileUtility Inheritance Object JsonFileUtility Namespace : V8.UI.Runtime.Configuration Assembly : cs.temp.dll.dll Syntax public static class JsonFileUtility Methods ConvertJsonFilesToJObject(IEnumerable<FileInfo>) Declaration public static Dictionary<string, JToken> ConvertJsonFilesToJObject(IEnumerable<FileInfo> jsonFiles) Parameters Type Name Description IEnumerable < FileInfo > jsonFiles Returns Type Description Dictionary < String , JToken > GetJsonFiles(String) Declaration public static IEnumerable<FileInfo> GetJsonFiles(string path) Parameters Type Name Description String path Returns Type Description IEnumerable < FileInfo >"
   },
   "api/V8.UI.Runtime.Configuration.TextureList.html": {
     "href": "api/V8.UI.Runtime.Configuration.TextureList.html",
-    "title": "Class TextureList | Verse 8 UI documentation",
+    "title": "Class TextureList | com.planetarium.v8.ui documentation",
     "keywords": "Class TextureList Inheritance Object AssetList < Texture2D > TextureList Implements IAssetList < Texture2D > Inherited Members AssetList<Texture2D>._assets AssetList<Texture2D>.TryGetAsset(String, Texture2D) Namespace : V8.UI.Runtime.Configuration Assembly : cs.temp.dll.dll Syntax public class TextureList : AssetList<Texture2D>, IAssetList<Texture2D> Implements IAssetList<T>"
   },
   "api/V8.UI.Runtime.Configuration.UnityEnumMapper.html": {
     "href": "api/V8.UI.Runtime.Configuration.UnityEnumMapper.html",
-    "title": "Struct UnityEnumMapper | Verse 8 UI documentation",
-    "keywords": "Struct UnityEnumMapper Inherited Members ValueType.Equals(Object) ValueType.GetHashCode() ValueType.ToString() Object.Equals(Object, Object) Object.ReferenceEquals(Object, Object) Object.GetType() Namespace : V8.UI.Runtime.Configuration Assembly : cs.temp.dll.dll Syntax public readonly struct UnityEnumMapper Methods ToAnchorSettings(AlignmentMode) Declaration public static AnchorSettings ToAnchorSettings(AlignmentMode mode) Parameters Type Name Description AlignmentMode mode Returns Type Description AnchorSettings ToAxis(AxisMode) Declaration public static GridLayoutGroup.Axis ToAxis(AxisMode mode) Parameters Type Name Description AxisMode mode Returns Type Description GridLayoutGroup.Axis ToConstraint(ConstraintMode) Declaration public static GridLayoutGroup.Constraint ToConstraint(ConstraintMode mode) Parameters Type Name Description ConstraintMode mode Returns Type Description GridLayoutGroup.Constraint ToCorner(CornerMode) Declaration public static GridLayoutGroup.Corner ToCorner(CornerMode mode) Parameters Type Name Description CornerMode mode Returns Type Description GridLayoutGroup.Corner ToTextAlignmentOptions(AlignmentMode) Declaration public static TextAlignmentOptions ToTextAlignmentOptions(AlignmentMode mode) Parameters Type Name Description AlignmentMode mode Returns Type Description TextAlignmentOptions ToTextAnchor(AlignmentMode) Declaration public static TextAnchor ToTextAnchor(AlignmentMode mode) Parameters Type Name Description AlignmentMode mode Returns Type Description TextAnchor"
+    "title": "Struct UnityEnumMapper | com.planetarium.v8.ui documentation",
+    "keywords": "Struct UnityEnumMapper Namespace : V8.UI.Runtime.Configuration Assembly : cs.temp.dll.dll Syntax public readonly struct UnityEnumMapper Methods ToAnchorSettings(AlignmentMode) Declaration public static AnchorSettings ToAnchorSettings(AlignmentMode mode) Parameters Type Name Description AlignmentMode mode Returns Type Description AnchorSettings ToAxis(AxisMode) Declaration public static GridLayoutGroup.Axis ToAxis(AxisMode mode) Parameters Type Name Description AxisMode mode Returns Type Description GridLayoutGroup.Axis ToConstraint(ConstraintMode) Declaration public static GridLayoutGroup.Constraint ToConstraint(ConstraintMode mode) Parameters Type Name Description ConstraintMode mode Returns Type Description GridLayoutGroup.Constraint ToCorner(CornerMode) Declaration public static GridLayoutGroup.Corner ToCorner(CornerMode mode) Parameters Type Name Description CornerMode mode Returns Type Description GridLayoutGroup.Corner ToTextAlignmentOptions(AlignmentMode) Declaration public static TextAlignmentOptions ToTextAlignmentOptions(AlignmentMode mode) Parameters Type Name Description AlignmentMode mode Returns Type Description TextAlignmentOptions ToTextAnchor(AlignmentMode) Declaration public static TextAnchor ToTextAnchor(AlignmentMode mode) Parameters Type Name Description AlignmentMode mode Returns Type Description TextAnchor"
   },
   "api/V8.UI.Runtime.Factory.Extensions.html": {
     "href": "api/V8.UI.Runtime.Factory.Extensions.html",
-    "title": "Namespace V8.UI.Runtime.Factory.Extensions | Verse 8 UI documentation",
+    "title": "Namespace V8.UI.Runtime.Factory.Extensions | com.planetarium.v8.ui documentation",
     "keywords": "Namespace V8.UI.Runtime.Factory.Extensions Classes RectTransformExtensions"
   },
   "api/V8.UI.Runtime.Factory.Extensions.RectTransformExtensions.html": {
     "href": "api/V8.UI.Runtime.Factory.Extensions.RectTransformExtensions.html",
-    "title": "Class RectTransformExtensions | Verse 8 UI documentation",
-    "keywords": "Class RectTransformExtensions Inheritance Object RectTransformExtensions Inherited Members Object.ToString() Object.Equals(Object) Object.Equals(Object, Object) Object.ReferenceEquals(Object, Object) Object.GetHashCode() Object.GetType() Object.MemberwiseClone() Namespace : V8.UI.Runtime.Factory.Extensions Assembly : cs.temp.dll.dll Syntax public static class RectTransformExtensions Methods ResetForChild(RectTransform, RectTransform) Declaration public static void ResetForChild(this RectTransform rt, RectTransform parentGameObject) Parameters Type Name Description RectTransform rt RectTransform parentGameObject UpdateAnchor(RectTransform, AlignmentMode) Declaration public static void UpdateAnchor(this RectTransform rt, AlignmentMode mode) Parameters Type Name Description RectTransform rt AlignmentMode mode UpdatePosition(RectTransform, PositionMode, Vector2, RectTransform) Declaration public static void UpdatePosition(this RectTransform rt, PositionMode mode, Vector2 position, RectTransform parent) Parameters Type Name Description RectTransform rt PositionMode mode Vector2 position RectTransform parent UpdateSize(RectTransform, Vector2) Declaration public static void UpdateSize(this RectTransform rt, Vector2 size) Parameters Type Name Description RectTransform rt Vector2 size"
+    "title": "Class RectTransformExtensions | com.planetarium.v8.ui documentation",
+    "keywords": "Class RectTransformExtensions Inheritance Object RectTransformExtensions Namespace : V8.UI.Runtime.Factory.Extensions Assembly : cs.temp.dll.dll Syntax public static class RectTransformExtensions Methods ResetForChild(RectTransform, RectTransform) Declaration public static void ResetForChild(this RectTransform rt, RectTransform parentGameObject) Parameters Type Name Description RectTransform rt RectTransform parentGameObject UpdateAnchor(RectTransform, AlignmentMode) Declaration public static void UpdateAnchor(this RectTransform rt, AlignmentMode mode) Parameters Type Name Description RectTransform rt AlignmentMode mode UpdatePosition(RectTransform, PositionMode, Vector2, RectTransform) Declaration public static void UpdatePosition(this RectTransform rt, PositionMode mode, Vector2 position, RectTransform parent) Parameters Type Name Description RectTransform rt PositionMode mode Vector2 position RectTransform parent UpdateSize(RectTransform, Vector2) Declaration public static void UpdateSize(this RectTransform rt, Vector2 size) Parameters Type Name Description RectTransform rt Vector2 size"
   },
   "api/V8.UI.Runtime.Factory.html": {
     "href": "api/V8.UI.Runtime.Factory.html",
-    "title": "Namespace V8.UI.Runtime.Factory | Verse 8 UI documentation",
+    "title": "Namespace V8.UI.Runtime.Factory | com.planetarium.v8.ui documentation",
     "keywords": "Namespace V8.UI.Runtime.Factory Interfaces IComponentFactory Interface for factories to create UI Component. IElementFactory IFactory"
   },
   "api/V8.UI.Runtime.Factory.IComponentFactory.html": {
     "href": "api/V8.UI.Runtime.Factory.IComponentFactory.html",
-    "title": "Interface IComponentFactory | Verse 8 UI documentation",
+    "title": "Interface IComponentFactory | com.planetarium.v8.ui documentation",
     "keywords": "Interface IComponentFactory Interface for factories to create UI Component. Inherited Members IFactory.Type Namespace : V8.UI.Runtime.Factory Assembly : cs.temp.dll.dll Syntax public interface IComponentFactory : IFactory Methods Create(Object, RectTransform) Declaration RectTransform Create(object element, RectTransform parent) Parameters Type Name Description Object element RectTransform parent Returns Type Description RectTransform"
   },
   "api/V8.UI.Runtime.Factory.IElementFactory.html": {
     "href": "api/V8.UI.Runtime.Factory.IElementFactory.html",
-    "title": "Interface IElementFactory | Verse 8 UI documentation",
+    "title": "Interface IElementFactory | com.planetarium.v8.ui documentation",
     "keywords": "Interface IElementFactory Inherited Members IFactory.Type Namespace : V8.UI.Runtime.Factory Assembly : cs.temp.dll.dll Syntax public interface IElementFactory : IFactory Methods Create(JToken) Declaration Element Create(JToken jToken) Parameters Type Name Description JToken jToken Returns Type Description Element"
   },
   "api/V8.UI.Runtime.Factory.IFactory.html": {
     "href": "api/V8.UI.Runtime.Factory.IFactory.html",
-    "title": "Interface IFactory | Verse 8 UI documentation",
+    "title": "Interface IFactory | com.planetarium.v8.ui documentation",
     "keywords": "Interface IFactory Namespace : V8.UI.Runtime.Factory Assembly : cs.temp.dll.dll Syntax public interface IFactory Properties Type Declaration string Type { get; } Property Value Type Description String"
   },
   "api/V8.UI.Runtime.html": {
     "href": "api/V8.UI.Runtime.html",
-    "title": "Namespace V8.UI.Runtime | Verse 8 UI documentation",
+    "title": "Namespace V8.UI.Runtime | com.planetarium.v8.ui documentation",
     "keywords": "Namespace V8.UI.Runtime Classes UIInitializer Initializes and constructs the UI elements from provided data. UIManager Manages UI Elements by their names."
   },
   "api/V8.UI.Runtime.Provider.html": {
     "href": "api/V8.UI.Runtime.Provider.html",
-    "title": "Namespace V8.UI.Runtime.Provider | Verse 8 UI documentation",
+    "title": "Namespace V8.UI.Runtime.Provider | com.planetarium.v8.ui documentation",
     "keywords": "Namespace V8.UI.Runtime.Provider Interfaces IFactoryProvider<T>"
   },
   "api/V8.UI.Runtime.Provider.IFactoryProvider-1.html": {
     "href": "api/V8.UI.Runtime.Provider.IFactoryProvider-1.html",
-    "title": "Interface IFactoryProvider<T> | Verse 8 UI documentation",
+    "title": "Interface IFactoryProvider<T> | com.planetarium.v8.ui documentation",
     "keywords": "Interface IFactoryProvider<T> Namespace : V8.UI.Runtime.Provider Assembly : cs.temp.dll.dll Syntax public interface IFactoryProvider<out T> Type Parameters Name Description T Methods GetFactory(String) Declaration T GetFactory(string type) Parameters Type Name Description String type Returns Type Description T"
   },
   "api/V8.UI.Runtime.UIInitializer.html": {
     "href": "api/V8.UI.Runtime.UIInitializer.html",
-    "title": "Class UIInitializer | Verse 8 UI documentation",
-    "keywords": "Class UIInitializer Initializes and constructs the UI elements from provided data. Inheritance Object UIInitializer Inherited Members Object.ToString() Object.Equals(Object) Object.Equals(Object, Object) Object.ReferenceEquals(Object, Object) Object.GetHashCode() Object.GetType() Object.MemberwiseClone() Namespace : V8.UI.Runtime Assembly : cs.temp.dll.dll Syntax public sealed class UIInitializer Constructors UIInitializer(RectTransform, IAssetList<TMP_FontAsset>, IAssetList<Texture2D>) Constructs a UIInitializer with references to the canvas and asset lists. Declaration public UIInitializer(RectTransform canvas, IAssetList<TMP_FontAsset> fontAssets, IAssetList<Texture2D> imageAssets) Parameters Type Name Description RectTransform canvas IAssetList < TMP_FontAsset > fontAssets IAssetList < Texture2D > imageAssets Methods Initialize(Dictionary<String, JToken>) Initializes the UI manager with UI data and constructs UI elements. Declaration public UIManager Initialize(Dictionary<string, JToken> uiData) Parameters Type Name Description Dictionary < String , JToken > uiData Dictionary containing UI configuration data, keyed by UI names. Returns Type Description UIManager A UIManager instance managing the created UI elements."
+    "title": "Class UIInitializer | com.planetarium.v8.ui documentation",
+    "keywords": "Class UIInitializer Initializes and constructs the UI elements from provided data. Inheritance Object UIInitializer Namespace : V8.UI.Runtime Assembly : cs.temp.dll.dll Syntax public sealed class UIInitializer Constructors UIInitializer(RectTransform, IAssetList<TMP_FontAsset>, IAssetList<Texture2D>) Constructs a UIInitializer with references to the canvas and asset lists. Declaration public UIInitializer(RectTransform canvas, IAssetList<TMP_FontAsset> fontAssets, IAssetList<Texture2D> imageAssets) Parameters Type Name Description RectTransform canvas IAssetList < TMP_FontAsset > fontAssets IAssetList < Texture2D > imageAssets Methods Initialize(Dictionary<String, JToken>) Initializes the UI manager with UI data and constructs UI elements. Declaration public UIManager Initialize(Dictionary<string, JToken> uiData) Parameters Type Name Description Dictionary < String , JToken > uiData Dictionary containing UI configuration data, keyed by UI names. Returns Type Description UIManager A UIManager instance managing the created UI elements."
   },
   "api/V8.UI.Runtime.UIManager.html": {
     "href": "api/V8.UI.Runtime.UIManager.html",
-    "title": "Class UIManager | Verse 8 UI documentation",
-    "keywords": "Class UIManager Manages UI Elements by their names. Inheritance Object UIManager Inherited Members Object.ToString() Object.Equals(Object) Object.Equals(Object, Object) Object.ReferenceEquals(Object, Object) Object.GetHashCode() Object.GetType() Object.MemberwiseClone() Namespace : V8.UI.Runtime Assembly : cs.temp.dll.dll Syntax public sealed class UIManager Constructors UIManager(Dictionary<String, Element>) Initializes UIManager with a dictionary of UI Elements. Declaration public UIManager(Dictionary<string, Element> uis) Parameters Type Name Description Dictionary < String , Element > uis Methods Get<T>(String) Retrieves an element of the specified type with the given name. Declaration public T Get<T>(string name) where T : Element Parameters Type Name Description String name Name of the element to retrieve. Returns Type Description T Element of the specified type. Type Parameters Name Description T Type of element to retrieve, subclass of Element."
+    "title": "Class UIManager | com.planetarium.v8.ui documentation",
+    "keywords": "Class UIManager Manages UI Elements by their names. Inheritance Object UIManager Namespace : V8.UI.Runtime Assembly : cs.temp.dll.dll Syntax public sealed class UIManager Constructors UIManager(Dictionary<String, Element>) Initializes UIManager with a dictionary of UI Elements. Declaration public UIManager(Dictionary<string, Element> uis) Parameters Type Name Description Dictionary < String , Element > uis Methods Get<T>(String) Retrieves an element of the specified type with the given name. Declaration public T Get<T>(string name) where T : Element Parameters Type Name Description String name Name of the element to retrieve. Returns Type Description T Element of the specified type. Type Parameters Name Description T Type of element to retrieve, subclass of Element."
   },
   "index.html": {
     "href": "index.html",
-    "title": "com.planetarium.v8.ui | Verse 8 UI documentation",
+    "title": "com.planetarium.v8.ui | com.planetarium.v8.ui documentation",
     "keywords": "com.planetarium.v8.ui Welcome! Welcome to the com.planetarium.v8.ui repository. com.planetarium.v8.ui is a Unity package designed for creating dynamic and responsive user interfaces in Unity games. This package allows developers to efficiently design UI components using JSON metadata, which are then dynamically rendered within the game. Getting Started To get started with com.planetarium.v8.ui : Visit our Documentation for detailed package usage and API information. Explore the com.planetarium.v8.ui folder, which contains all scripts and assets for the UI package. Check out the Unity Test Scenes in the v8.ui.test folder for examples of how to implement the UI elements in a Unity scene. Use the UI Viewer in the docs to load and preview your UI designs from JSON files. Development This repository is organized into multiple components: . ├── com.planetarium.v8.ui # The core UI SDK unity package (source + tests) ├── v8.ui.test # Unity Test Scenes and the UIViewer for JSON UI design preview. └── docs # UIViewer build files for web deployment."
   },
   "manual/about.html": {
     "href": "manual/about.html",
-    "title": "Verse 8 UI | Verse 8 UI documentation",
-    "keywords": "Verse 8 UI Overview com.planetarium.v8.ui is a custom UI package for Unity, designed to facilitate the efficient creation and management of user interfaces in Unity games. This package enables developers to dynamically construct UIs within Unity, using JSON metadata as a blueprint. It's tailored for game developers seeking a streamlined and flexible approach to UI development. Key Features Modular UI Elements: The package includes a variety of modular elements such as images, labels, layouts, and buttons, which can be combined and customized to create diverse UI components. Dynamic UI Construction: com.planetarium.v8.ui uses JSON metadata to dynamically generate UI elements in Unity. This allows developers to define their UI structure and properties externally and have them realized within the game environment. Flexible and Customizable: The package's design is highly customizable, enabling developers to tailor UI components to their specific game's needs. JSON Metadata Integration The use of JSON metadata is a key aspect of com.planetarium.v8.ui . This integration allows for: External UI Definition : Developers can define the UI's layout, appearance, and behavior in JSON files. Runtime UI Construction : During the game's runtime, com.planetarium.v8.ui interprets these JSON files and constructs the corresponding UI elements within Unity, providing a live and dynamic UI experience. Implementation Incorporating com.planetarium.v8.ui into your Unity project is straightforward: Prepare JSON Metadata: Create JSON files defining the desired UI components. Import the Package: Add com.planetarium.v8.ui to your Unity project. Construct UI Dynamically: The package will read the JSON metadata and create the UI elements accordingly in your Unity game. Conclusion com.planetarium.v8.ui offers an innovative solution for Unity game developers to create and manage their game UIs effectively. Its combination of modular design and dynamic JSON metadata integration provides a powerful tool for building responsive and visually appealing user interfaces, enhancing the overall gaming experience. Installation To install the com.planetarium.v8.ui package, you need to use the Unity Package Manager with a Git URL. Here's how you can do it: Open the Unity Editor and go to Window > Package Manager. In the Package Manager window, click the + button and select Install package from git URL . Enter the following URL and click Add to add the package: https://github.com/planetarium/com.planetarium.v8.ui.git#development?path=com.planetarium.v8.ui Once added, the package will be displayed in the Package Manager of your Unity Editor. This method allows you to directly install the com.planetarium.v8.ui package in your Unity project, making it easier to manage and update the package. Requirements This version of Unity NetCode is compatible with the following versions of the Unity Editor: 2023.2.4 and later (recommended) This package is based on Unity UI . Therefore, to use this package, you need to have knowledge of Unity UI ."
+    "title": "com.planetarium.v8.ui | com.planetarium.v8.ui documentation",
+    "keywords": "com.planetarium.v8.ui Overview com.planetarium.v8.ui is a custom UI package for Unity, designed to facilitate the efficient creation and management of user interfaces in Unity games. This package enables developers to dynamically construct UIs within Unity, using JSON metadata as a blueprint. It's tailored for game developers seeking a streamlined and flexible approach to UI development. Key Features Modular UI Elements: The package includes a variety of modular elements such as images, labels, layouts, and buttons, which can be combined and customized to create diverse UI components. Dynamic UI Construction: com.planetarium.v8.ui uses JSON metadata to dynamically generate UI elements in Unity. This allows developers to define their UI structure and properties externally and have them realized within the game environment. Flexible and Customizable: The package's design is highly customizable, enabling developers to tailor UI components to their specific game's needs. JSON Metadata Integration The use of JSON metadata is a key aspect of com.planetarium.v8.ui . This integration allows for: External UI Definition : Developers can define the UI's layout, appearance, and behavior in JSON files. Runtime UI Construction : During the game's runtime, com.planetarium.v8.ui interprets these JSON files and constructs the corresponding UI elements within Unity, providing a live and dynamic UI experience. Implementation Incorporating com.planetarium.v8.ui into your Unity project is straightforward: Prepare JSON Metadata: Create JSON files defining the desired UI components. Import the Package: Add com.planetarium.v8.ui to your Unity project. Construct UI Dynamically: The package will read the JSON metadata and create the UI elements accordingly in your Unity game. Conclusion com.planetarium.v8.ui offers an innovative solution for Unity game developers to create and manage their game UIs effectively. Its combination of modular design and dynamic JSON metadata integration provides a powerful tool for building responsive and visually appealing user interfaces, enhancing the overall gaming experience. Installation To install the com.planetarium.v8.ui package, you need to use the Unity Package Manager with a Git URL. Here's how you can do it: Open the Unity Editor and go to Window > Package Manager. In the Package Manager window, click the + button and select Install package from git URL . Enter the following URL and click Add to add the package: https://github.com/planetarium/com.planetarium.v8.ui.git#development?path=com.planetarium.v8.ui Once added, the package will be displayed in the Package Manager of your Unity Editor. This method allows you to directly install the com.planetarium.v8.ui package in your Unity project, making it easier to manage and update the package. Requirements This version of Unity NetCode is compatible with the following versions of the Unity Editor: 2023.2.4 and later (recommended) This package is based on Unity UI . Therefore, to use this package, you need to have knowledge of Unity UI ."
   },
   "manual/gettingStarted.html": {
     "href": "manual/gettingStarted.html",
-    "title": "Getting started with com.planetarium.v8.ui | Verse 8 UI documentation",
+    "title": "Getting started with com.planetarium.v8.ui | com.planetarium.v8.ui documentation",
     "keywords": "Getting started with com.planetarium.v8.ui"
   }
 }
