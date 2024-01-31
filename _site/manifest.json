@@ -2,6 +2,7 @@
   "sitemap": {
     "fileOptions": {
       "api/*": {
+        "baseUrl": "https://hskim881028.github.io/docfx-test/",
         "changefreq": "daily"
       }
     },
@@ -20,6 +21,426 @@
         }
       },
       "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Configuration.AlignmentMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Configuration.AlignmentMode.html",
+          "hash": "3LE8p9OtdOVV831ap7doqzrEWda8RF9Gi3NsH0wlNPg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Configuration.AxisMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Configuration.AxisMode.html",
+          "hash": "ULN2lx8T3zfJbzbZF+PX/mZEqVD2mpxEeklo0qL/hvQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Configuration.ConstraintMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Configuration.ConstraintMode.html",
+          "hash": "qyONc1I4R7RbTxlF7dku3zXXpySOLfcEvHf72ER06oc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Configuration.CornerMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Configuration.CornerMode.html",
+          "hash": "v0mdSLenFjkdasogvSG0RqkgSNqDd3sK6l/hCCGAGfI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Configuration.Padding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Configuration.Padding.html",
+          "hash": "SBwIs7BWWrLt1EJhagPkYmzbqJZaua4z/T/xSwVS+mc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Configuration.PositionMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Configuration.PositionMode.html",
+          "hash": "WJaHcT7kZ3IJP6OIs5B+gNl6gQ1g03+kZty0FBDd2bE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Configuration.SizeMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Configuration.SizeMode.html",
+          "hash": "9LxYVNPGx44GXUHGQ17UWlnVmVGuADM8GTct4I98ZVo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Configuration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Configuration.html",
+          "hash": "JUEzty/lA+vbUPs6cPvkjwjPBgIj2RhHm0H2ygFytoY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Elements.Basic.Element.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Elements.Basic.Element.html",
+          "hash": "edn9Q3W0Kx69AzLgn6X96TR/kcGsVXYhxEb0YlPM+6k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Elements.Basic.Image.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Elements.Basic.Image.html",
+          "hash": "apjDCntyjIPI4JJO4wrQZPKfEAooSh2siYUsGXBLM2Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Elements.Basic.Label.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Elements.Basic.Label.html",
+          "hash": "4RweNSfdV6n8eP00xqFeQLdzTMAg+87E/cVNajlC4sw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Elements.Basic.Layout.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Elements.Basic.Layout.html",
+          "hash": "FsKwWnkT7eQJ5hCEzk5OyqE62Uk85n0L7fOtOMmGsSM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Elements.Basic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Elements.Basic.html",
+          "hash": "434auKQ2nAfCrmQTrWHSK0pN7sVmJ+F7iBHqXO0Xqas="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.Configuration.AnchorSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.Configuration.AnchorSettings.html",
+          "hash": "oOvc5lvgsflQwHgLFzp37yjUQjfrdnPfsXxvbYzonpA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.Configuration.AssetList-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.Configuration.AssetList-1.html",
+          "hash": "k6tStxfXEbxLccQvstUDcTQxpJ8+9G/WJMQVMiRgSgk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.Configuration.Config.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.Configuration.Config.html",
+          "hash": "y8Oaa2piztRfBNp1xP7Zanx/0TVAzC07Lya5Oj8gWYA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.Configuration.ElementDescriptor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.Configuration.ElementDescriptor.html",
+          "hash": "K6vDAyt0GYZo7q+enzv3fW/J97jeMMCvVZvIXucqsx0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.Configuration.FontList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.Configuration.FontList.html",
+          "hash": "WF5ujcmwaUErWdfhPjqw5CQKitOkBhsUV80Pwhc0hHI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.Configuration.IAssetList-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.Configuration.IAssetList-1.html",
+          "hash": "Cb9yZ3C0iy+fdRmHqbUZTpN7zGUg0oz2NfavA+v3O1A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.Configuration.JsonFileUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.Configuration.JsonFileUtility.html",
+          "hash": "+4oB1M1Bl+VjsSFman8y7aJQLX1U8yNHFrEfFDm08cI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.Configuration.TextureList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.Configuration.TextureList.html",
+          "hash": "19Td6AOphwtP+QGPDBK64NWdRJ7lyrjVBbwOPkM4Kz4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.Configuration.UnityEnumMapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.Configuration.UnityEnumMapper.html",
+          "hash": "v9chA5z5FaRgH1CXBoN/AsA+NOz2xGPtvif1/+TsvfY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.Configuration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.Configuration.html",
+          "hash": "tzENQFSW5LdXPS1OG/zbwgp0V+7+uAf1gqef3jrMwKM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.Factory.Extensions.RectTransformExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.Factory.Extensions.RectTransformExtensions.html",
+          "hash": "VUfpHDcxSkTqeEXNaJrBbobRuwXa6fHh8BCb1BSd49A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.Factory.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.Factory.Extensions.html",
+          "hash": "aqgbb1FgQtz/I6wBM7tA9zuSFLtKPz0FBwVR/9kqLVg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.Factory.IComponentFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.Factory.IComponentFactory.html",
+          "hash": "1YJyXGZEjOKhj+sWiOYV9ais3tBI3OqRiujTsFAyW6Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.Factory.IElementFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.Factory.IElementFactory.html",
+          "hash": "oaKU+yih7Xs6DqXuRb5e64c4HZkDkAxNpU+6VZRbqtU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.Factory.IFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.Factory.IFactory.html",
+          "hash": "iAKoP6DXYA6cQcloqTB8M3BVbUIDUw5qVtLrEMfoopg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.Factory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.Factory.html",
+          "hash": "H0OHFunpYiPfnDd34mlhzbOhpOpv4+nGosdC4VxN6XY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.Provider.IFactoryProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.Provider.IFactoryProvider-1.html",
+          "hash": "3tEYPyPaFy4Qc33ciwFwBfCYZ3JfzyA4UANg6V3oYJA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.Provider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.Provider.html",
+          "hash": "vneNG5g+aEY9JORXYULMJyChMrBcjWqM8QfmkXSvuq8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.UIInitializer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.UIInitializer.html",
+          "hash": "B+XUp0t/+Z5ibhQTwSgtWQ6YYO0Ba+GUW++ekeQI78w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.UIManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.UIManager.html",
+          "hash": "4VmBmMGvxMiM9g4Yqs0NRmCRg2ovju/s3EcnN5haRfE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/V8.UI.Runtime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/V8.UI.Runtime.html",
+          "hash": "vjzu/5uXRUdzSZTb1R4rO6AngdY0pUlZVf1481Fhlwc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "LRvbb/Ott7GRmpTDe/hBBWkKOkmn6Fzm7pJievDYHjY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
     },
     {
       "type": "Conceptual",
@@ -108,7 +529,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "g0KsbH+o6pUO8xMUdt1C1uTTcD6e7SeS8Eb3O6fOvEg="
+          "hash": "cior8YHuxOzdZuPKEKbN7rI8j2S2csuHiYJZTt7tkMM="
         }
       },
       "is_incremental": false,
@@ -130,6 +551,12 @@
           "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 3,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 36,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
