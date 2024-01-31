@@ -448,7 +448,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "Pzh+ueJeRK4gbh9mQ1xp8Pc58KqSBggm8IuEhP1Vv1g="
+          "hash": "NvgSy2/yowsnPhlA5reljsVHI7UEX353lKKjV8zDiRQ="
         }
       },
       "is_incremental": false,
@@ -456,11 +456,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "manual/coniunctis.md",
+      "source_relative_path": "manual/about.md",
       "output": {
         ".html": {
-          "relative_path": "manual/coniunctis.html",
-          "hash": "2zH1GsxeR509/1EI/nspJjK20SFNbPTacPrasNX8OMk="
+          "relative_path": "manual/about.html",
+          "hash": "5s5Q+CRrBOWaEyQCzVo1jApQVeRB8GSodh0vQO/ZyYE="
         }
       },
       "is_incremental": false,
@@ -468,11 +468,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "manual/etiam.md",
+      "source_relative_path": "manual/gettingStarted.md",
       "output": {
         ".html": {
-          "relative_path": "manual/etiam.html",
-          "hash": "i/jNOxmh/wcRsQ0WxJsVEu9cp115soGWWvVhvzGyw78="
+          "relative_path": "manual/gettingStarted.html",
+          "hash": "MKkDEMx6TkMFj3QX7uKWisllmA+0g5qfi48ypnykvDE="
         }
       },
       "is_incremental": false,
@@ -484,7 +484,7 @@
       "output": {
         ".html": {
           "relative_path": "manual/toc.html",
-          "hash": "rP+c9KPLMLO+q5u7rC7ci/iMYXqbmZC8g5PeGCEXGU4="
+          "hash": "GhDNnPCsqe5rFgdhko6ofwu3+v4mtVRbsJ8lm6bHrzc="
         }
       },
       "is_incremental": false,
@@ -529,7 +529,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "cior8YHuxOzdZuPKEKbN7rI8j2S2csuHiYJZTt7tkMM="
+          "hash": "8Hh2VyW/asbuU6lVXkFIDbWNP20u2iF8w7jqp513UMM="
         }
       },
       "is_incremental": false,
