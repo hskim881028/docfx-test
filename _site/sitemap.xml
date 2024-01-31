@@ -1,32 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hskim881028.github.io/docfx-test/api/DocFxForUnity.Player.html</loc>
-    <lastmod>2024-01-31T03:05:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://hskim881028.github.io/docfx-test/api/DocFxForUnity.html</loc>
-    <lastmod>2024-01-31T03:05:19+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://hskim881028.github.io/docfx-test/index.html</loc>
-    <lastmod>2024-01-31T03:05:19+00:00</lastmod>
+    <lastmod>2024-01-31T04:25:16+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://hskim881028.github.io/docfx-test/manual/coniunctis.html</loc>
-    <lastmod>2024-01-31T03:05:19+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://hskim881028.github.io/docfx-test/manual/etiam.html</loc>
-    <lastmod>2024-01-31T03:05:19+00:00</lastmod>
+    <lastmod>2024-01-31T04:25:16+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

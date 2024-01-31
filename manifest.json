@@ -2,7 +2,6 @@
   "sitemap": {
     "fileOptions": {
       "api/*": {
-        "baseUrl": "https://hskim881028.github.io/docfx-test/",
         "changefreq": "daily"
       }
     },
@@ -23,48 +22,12 @@
       "is_incremental": false
     },
     {
-      "type": "ManagedReference",
-      "source_relative_path": "api/DocFxForUnity.Player.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/DocFxForUnity.Player.html",
-          "hash": "oRG8Rpxcn5miWbb6y3eInh0biseCZ/1aB4jOhnxVNic="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/DocFxForUnity.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/DocFxForUnity.html",
-          "hash": "C463u9FErVAXRjgMYcvNGmWvGLftp5zFUt7mWryana4="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "api/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/toc.html",
-          "hash": "DOo5KJO57TMjQabtxqPhHI5p7h3iooCIxeFbQW87fYQ="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "OqWUPow3Ue1sPzbSiIs/gZ+kzOrNDSIrFUgnjSEISGk="
+          "hash": "Pzh+ueJeRK4gbh9mQ1xp8Pc58KqSBggm8IuEhP1Vv1g="
         }
       },
       "is_incremental": false,
@@ -76,31 +39,7 @@
       "output": {
         ".html": {
           "relative_path": "manual/coniunctis.html",
-          "hash": "eDfZZbAdtJfaW9Kahco0b+DutcDWpFm4WmffCDfpqZc="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "manual/etiam.md",
-      "output": {
-        ".html": {
-          "relative_path": "manual/etiam.html",
-          "hash": "mW/gs/xx4lFoUxRwUMHLASm6USnyCXxpclDxBexDew8="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "manual/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "manual/toc.html",
-          "hash": "rP+c9KPLMLO+q5u7rC7ci/iMYXqbmZC8g5PeGCEXGU4="
+          "hash": "zLJ+WDl+vUSU54NS2KPnm87T88mItqPrVGRGne/wMyo="
         }
       },
       "is_incremental": false,
@@ -145,7 +84,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "vzmTVWeRrBXreSzruJPXo2ATe9mgM2s3qn0qFZu0Z8c="
+          "hash": "Da6sDFOFElUBSgwBa/CYR8tjbQ5Gqr1SgXTuF91C/0E="
         }
       },
       "is_incremental": false,
@@ -166,13 +105,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 3,
-          "skipped_file_count": 0
-        },
-        "ManagedReferenceDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 3,
+          "total_file_count": 2,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
